@@ -4,15 +4,17 @@ Chinook is a sample database for SQL Server, SQLite, MySQL, etc. The Chinook dat
 
 ## Setup
 
-### Downloading the Database File
+### 1: Downloading the Database File
 
 Follow the link below and click the "Download" button when you get there.
 
-[Chinook Database](/Chinook_Sqlite.sqlite)
+<img width="1026" alt="Screenshot 2025-03-07 at 2 56 05 PM" src="https://github.com/user-attachments/assets/45d62ed7-3f38-4c2e-8a9c-1935460feddf" />
+
+👉🏼 👉🏼 👉🏼 [Chinook Database](/Chinook_Sqlite.sqlite)
 
 ##### *NOTE: The database will download into your* `Downloads` *directory by default.*
 
-### Step Two: Move Database to Workspace
+## 2: Move Database to Workspace
 
 1. In your Terminal, create a new project directory for your work.
 
