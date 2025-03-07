@@ -8,7 +8,7 @@ Chinook is a sample database for SQL Server, SQLite, MySQL, etc. The Chinook dat
 
 Follow the link below and click the "Download" button when you get there.
 
-[Chinook Database](./data/Chinook_Sqlite.sqlite)
+[Chinook Database](/Chinook_Sqlite.sqlite)
 
 ##### *NOTE: The database will download into your* `Downloads` *directory by default.*
 
